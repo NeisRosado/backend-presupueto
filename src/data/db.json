@@ -1,0 +1,40 @@
+{
+    "movimientos":[
+        {
+            "id": 1,
+            "description": "Bono de regalo",
+            "price": 200000,
+            "type": "ingreso"
+        },
+        {
+            "id": 2,
+            "description": "Pago de honorarios",
+            "price": 2500000,
+            "type": "ingreso"
+        },
+        {
+            "id": 3,
+            "description": "Comisiones de venta",
+            "price": 100000,
+            "type":"ingreso"
+        },
+        {
+            "id": 4,
+            "description": "Pago administracion apto",
+            "price": 250000,
+            "type":"gasto"
+        },
+        {
+            "id": 5,
+            "description": "Pago de servicios",
+            "price": 300000,
+            "type":"gasto"
+        },
+        {
+            "id": 6,
+            "description": "Compra de mercado",
+            "price": 400000,
+            "type":"gasto"
+        }
+    ]
+}
